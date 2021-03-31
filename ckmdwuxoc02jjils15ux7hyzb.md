@@ -111,7 +111,7 @@ Here are a few tips which you too can implement.
 
 Hope you guys have loved this week's teardown and feel free to reply with your thought on the same. Also if you want to suggest a website for our next teardown then do let me know and I'll consider it.
 
-Also, do you mind motivating me with a [**cup of coffee**](https://www.buymeacoffee.com/growthfyi)?
+Also, do you mind motivating me with a [cup of coffee](https://www.buymeacoffee.com/growthfyi)?
 
 Keep Building,<br/>
 [Ankit](https://twitter.com/Growthfyi) 
