@@ -6,6 +6,10 @@ In today's teardown we'll learn about Stripe's landing page and see what pointer
 
 **Suggestion:** If possible try to open the respective landing page simultaneously which you can refer to while reading this newsletter.
 
+**Here's a word from our sponsor**
+
+%%[sponsor]
+
 ### 1. Hero/Header Section
 
 The landing page of Stripe begins with a strong header section with the headline **"Payments infrastructure for the internet"**, if you read it carefully you'll notice that it targets the whole digital business space and not some small niche.
@@ -27,8 +31,6 @@ This the part where they showcase and talk about their service as a payment gate
 ![Stripe Body Section about products](https://cdn.hashnode.com/res/hashnode/image/upload/v1615061896564/d4LHKKNg9.png)
 
 Also if you notice the illustrations carefully then you'll see that they have used the logos of their users here as well, this done to show the visitor that how their solutions look at the users(customer) end.
-
-%%[sponsor]
 
 ### 4. Body (developer-oriented)
 
