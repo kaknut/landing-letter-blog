@@ -10,6 +10,10 @@ Today I'm going to teardown Splitbee's landing page which is an indie made analy
 
 **Suggestion:** If possible try to open the respective landing page simultaneously which you can refer to while reading this newsletter.
 
+**Here's a word from our sponsor**
+
+%%[sponsor]
+
 ### 1. Header/Hero Section
 
 Splitbee's hero section begins with a bold headline "Web Insights as Sweet as Honey" which does deliver the message but I would have preferred a simpler headline like "Simple yet powerful web analytics".
@@ -61,8 +65,6 @@ When I first saw my nation's flag there, I was very happy that how much they car
 Later it turned out that it's dynamic data shown to every user, it's a really nice way of getting users interest in your product.
 
 Digital payment giant Stripe also uses this same tactic in the hero section.
-
-%%[sponsor]
 
 ### 5. Body (user reviews)
 
