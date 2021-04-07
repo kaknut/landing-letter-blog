@@ -6,6 +6,10 @@ Let's move ahead with the most customer-focused landing page I've ever seen.
 
 **Suggestion:** If possible try to open the respective landing page simultaneously which you can refer to while reading this newsletter.
 
+**Here's a word from our sponsor**
+
+%%[sponsor]
+
 ### 1. Navbar
 
 I generally don't talk much about navbars but EmailOctopus's has a nice navbar which one must know about.
@@ -60,8 +64,6 @@ This in a second gives the message that EmailOctopus can easily integrate with t
 ![Body 3-min.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1616012891433/4j_YJTPfC.png)
 
 They have again cleverly used customer review here to explain benefits, it's very prominent that they are using customer's logo and review everywhere.
-
-%%[sponsor]
 
 ### 6. Body (about automation)
 
