@@ -10,6 +10,9 @@ Let's see what we can learn from their unique landing page.
 
 **Suggestion:** If possible try to open the respective landing page simultaneously which you can refer to while reading this newsletter.
 
+**Here's a word from our sponsor**
+%%[sponsor]
+
 ### 1. Header/Hero Section
 
 BMC has one of the most unique hero section.
