@@ -10,9 +10,9 @@ Even though it's built by a million-dollar company, I still found some possible 
 
 Let's see what we can learn from their unique landing page.
 
-Suggestion: If possible try to open the respective landing page simultaneously which you can refer to while reading this newsletter.
+**Suggestion:** If possible try to open the respective landing page simultaneously which you can refer to while reading this newsletter.
 
-A word from our sponsor.
+**A word from our sponsor.**
 
 %%[sponsor]
 
