@@ -12,7 +12,7 @@ Also sorry for sending this issue a bit late but couldn't help as dealing with s
 
 **Suggestion:** If possible try to open the respective landing page simultaneously which you can refer to while reading this newsletter.
 
-A word from our sponsor.
+**A word from our sponsor.**
 
 %%[sponsor]
 
