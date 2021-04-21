@@ -4,7 +4,7 @@ Hi,
 
 My last issue of Landing Letter performed exceptionally well and got a ton of feedback from you all.
 
-So in today's issue, we'll see how the team at Typeform build the landing page for  [VideoAsk](https://www.videoask.com/)  which is a tool to use videos in business.
+So in today's issue, we'll see how the team at Typeform build the landing page for  [VideoAsk](https://www.videoask.com/)  which is a tool to use videos in the business.
 
 Even though it's built by a million-dollar company, I still found some possible things to fix.
 
